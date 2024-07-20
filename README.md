@@ -10,6 +10,6 @@ Effective application of statistical methods to draw meaningful conclusions. Ski
 
 This Data Narrative is one of three parts of the project completed as part of the **ES 114: Probabilty, Statistics and Visualization** course offered to first yar Btech students at **IIT Gandhinagar** | April 2023
 
-**Links to the other two more data narrative parts of the Course:
-**
+**Links to the other two more data narrative parts of the Course:**
+
 [1995_US_Higher_Education_Data_Analysis](https://github.com/ChinthalaShivamani/1995_US_Higher_Education_Data_Analysis)
