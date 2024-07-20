@@ -9,3 +9,6 @@ In-depth exploration of the goodbooks-10k dataset using Python, employing advanc
 Effective application of statistical methods to draw meaningful conclusions. Skillful use of matplotlib and seaborn for compelling data visualizations to communicate findings and patterns.
 
 This Data Narrative is one of three parts of the project completed as part of the **ES 114: Probabilty, Statistics and Visualization** course offered to first yar Btech students at **IIT Gandhinagar** | April 2023
+
+**Links to the other two more data narrative parts of the Course:
+**
